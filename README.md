@@ -7,3 +7,5 @@
 # Meus vídeos 🎥
 + [Autikids: Vídeo de Apresentação](https://www.youtube.com/watch?v=gwaOvcCb9-w)
 + [Autikids: Vídeo demonstrativo](https://www.youtube.com/watch?v=HsBhddAzQME)
+
+> [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/brunoo_freitas05?igshid=NGExMmI2YTkyZg==) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bruno-freitas-30a21526a) 
